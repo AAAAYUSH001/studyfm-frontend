@@ -19,7 +19,9 @@ StudyFM is a full-stack web application designed to eliminate the friction of co
 ## 🚀 Local Setup (For Developers)
 
 To run this project locally:
+![StudyFM App Interface](./screenshot.png)
 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/AAAAYUSH001/studyfm-frontend.git](https://github.com/AAAAYUSH001/studyfm-frontend.git)
+<img width="1909" height="1027" alt="image" src="https://github.com/user-attachments/assets/36c524a0-2562-4545-a948-5d3dd0cb6716" />
