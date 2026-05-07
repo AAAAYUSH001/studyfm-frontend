@@ -145,7 +145,7 @@ export const generateQuiz = async ({ text, signal }) => {
     throw new Error('Generate with AI first so the quiz has source material to use.')
   }
 
-  const response = await fetch(buildApiUrl('/generate-quiz'), {
+  const response = await fetch(buildApiUrl('/api/generate-quiz'), {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ text: normalizedInput }),
